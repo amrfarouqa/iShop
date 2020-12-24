@@ -1,6 +1,6 @@
 # iShop
 
-<img src="img/promo.png">
+<img src="img/applep.png">
 
 E-Commerce website for apple products. Written in my first year of Bachelor Computer Science.
 
@@ -11,5 +11,6 @@ E-Commerce website for apple products. Written in my first year of Bachelor Comp
 - Set Database Credentials in db.php
 - Enjoy 3 Login Methods Admin, Data Entry Operator and Normal User.
 
+## Screenshot
 
 <img src="img/ishopScreen.png">
