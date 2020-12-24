@@ -1,10 +1,9 @@
 # iShop
 
-<img src="img/applep.png" width="150">
+<img src="img/promo.png">
 
 E-Commerce website for apple products. Written in my first year of Bachelor Computer Science.
 
-<img src="img/promo.png">
 
 ## Usage
 - Import mydb.sql into PHPMYADMIN
