@@ -4,7 +4,7 @@
 
 E-Commerce website for apple products. Written in my first year of Bachelor Computer Science.
 
-
+<img src="img/promo.png">
 
 ## Usage
 - Import mydb.sql into PHPMYADMIN
