@@ -1,6 +1,6 @@
 # iShop
 
-<img src="img/applep.png">
+<img src="img/applep.png" width="100">
 
 E-Commerce website for apple products. Written in my first year of Bachelor Computer Science.
 
