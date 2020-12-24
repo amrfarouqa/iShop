@@ -10,3 +10,6 @@ E-Commerce website for apple products. Written in my first year of Bachelor Comp
 - Set local host to root directory of iShop.
 - Set Database Credentials in db.php
 - Enjoy 3 Login Methods Admin, Data Entry Operator and Normal User.
+
+
+<img src="img/ishopScreen.png">
