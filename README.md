@@ -8,5 +8,5 @@ E-Commerce website for apple products. Written in my first year of Bachelor Comp
 ## Usage
 - Import mydb.sql into PHPMYADMIN
 - Set local host to root directory of iShop.
-- Set DB Credentials in db.php
+- Set Database Credentials in db.php
 - Enjoy 3 Login Methods Admin, Data Entry Operator and Normal User.
